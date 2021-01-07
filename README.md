@@ -1,2 +1,2 @@
-# e-barber
-Mini Project Website
+# E-Barber
+Mini Project Website order barbershop via online during covid-19
